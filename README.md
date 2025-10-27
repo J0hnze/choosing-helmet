@@ -22,7 +22,7 @@ Based on the image in the images folder
 
 ### Pin setup
 
-[[Images/esp32-s3-zero-mini.webp]]
+![s3-zero](Images/esp32-s3-zero-mini.webp)
 
 S3-ZERO <-> Screend
 | LCD PIN | ESP32 pin | Wire Colour | Notes |
